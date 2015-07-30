@@ -1,8 +1,4 @@
 # autopkg-recipes
-This is a collection of AutoPkg recipes that have been useful to me that I'm hoping others will find useful.
+Where did these recipes go?
 
-The Jin.munki.recipe depends on sheagcraig's download recipe for Jin. You can add the relevant repository with
-autopkg repo-add sheagcraig-recipes
-
-The Kindle.munki.recipe depends on hansen-m's download recipe for Kindle. You can add the relevant repository with
-autopkg repo-add hansen-m-recipes
+They have now been moved to https://github.com/autopkg/aysiu-recipes and will no longer be maintained here.
